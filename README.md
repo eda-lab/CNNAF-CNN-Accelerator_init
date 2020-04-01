@@ -1,1 +1,4 @@
-# CNNAF-CNN-Accelerator
+# CNN-accelerator
+Recent work on CNN accelerator based on FPGA.
+## Model list
+[MobileNetV2](mobilenetv2)
