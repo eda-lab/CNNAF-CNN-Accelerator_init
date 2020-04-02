@@ -1,6 +1,6 @@
-CNN accelerator based on FPGA
+CNN Accelerator based on FPGA
 ===
-  This folder contains the VHDL code for MobileNetV2 on FPGA.
+  This folder contains the Verilog HDL code for MobileNetV2 on FPGA.
 ## Model
   The reference model is mobilenet_v2_1.0_128, refer more information on [MobileNet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet).
 ## Framework
