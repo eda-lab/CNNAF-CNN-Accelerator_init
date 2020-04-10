@@ -1,0 +1,3 @@
+*.js linguist-language=verilg
+*.css linguist-language=verilg
+*.html linguist-language=verilg
